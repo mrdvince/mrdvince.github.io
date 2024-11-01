@@ -2,18 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>mrdvince.me/</loc>
+    <loc>https://mrdvince.github.io/</loc>
     <lastmod>2023-06-29T13:12:24+01:00</lastmod>
   </url><url>
-    <loc>mrdvince.me/posts/</loc>
+    <loc>https://mrdvince.github.io/posts/</loc>
     <lastmod>2023-06-29T13:12:24+01:00</lastmod>
   </url><url>
-    <loc>mrdvince.me/about/</loc>
+    <loc>https://mrdvince.github.io/posts/cldhwjgi3000209ld6fgh6j0l/</loc>
+    <lastmod>2023-06-29T13:12:24+01:00</lastmod>
   </url><url>
-    <loc>mrdvince.me/archives/</loc>
+    <loc>https://mrdvince.github.io/posts/ckx8pdli806axz7s10sx5fy8c/</loc>
+    <lastmod>2021-12-16T13:12:24+01:00</lastmod>
   </url><url>
-    <loc>mrdvince.me/categories/</loc>
+    <loc>https://mrdvince.github.io/posts/ckvmevbpz0mwg7ls1hbs99s69/</loc>
+    <lastmod>2021-11-05T13:12:24+01:00</lastmod>
   </url><url>
-    <loc>mrdvince.me/tags/</loc>
+    <loc>https://mrdvince.github.io/about/</loc>
+  </url><url>
+    <loc>https://mrdvince.github.io/archives/</loc>
+  </url><url>
+    <loc>https://mrdvince.github.io/categories/</loc>
+  </url><url>
+    <loc>https://mrdvince.github.io/tags/</loc>
   </url>
 </urlset>

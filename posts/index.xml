@@ -2,16 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Nomadin</title>
-    <link>mrdvince.me/posts/</link>
+    <link>https://mrdvince.github.io/posts/</link>
     <description>Recent content in Posts on Nomadin</description>
     <image>
       <title>Nomadin</title>
-      <url>mrdvince.me/</url>
-      <link>mrdvince.me/</link>
+      <url>https://mrdvince.github.io/</url>
+      <link>https://mrdvince.github.io/</link>
     </image>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="mrdvince.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Jun 2023 13:12:24 +0100</lastBuildDate>
+    <atom:link href="https://mrdvince.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust Basics: Taking the First Steps</title>
+      <link>https://mrdvince.github.io/posts/cldhwjgi3000209ld6fgh6j0l/</link>
+      <pubDate>Thu, 29 Jun 2023 13:12:24 +0100</pubDate>
+      <guid>https://mrdvince.github.io/posts/cldhwjgi3000209ld6fgh6j0l/</guid>
+      <description>&lt;h1 id=&#34;installing-rust&#34;&gt;Installing Rust&lt;/h1&gt;
+&lt;p&gt;Getting Rust installed on your system can be done by following the guide from the official website &lt;a href=&#34;https://www.rust-lang.org/tools/install&#34;&gt;https://www.rust-lang.org/tools/install&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As of writing this if installing on a Mac, Linux or WSL the recommended way is running this &lt;code&gt;curl --proto &#39;=https&#39; --tlsv1.2 -sSf&lt;/code&gt; &lt;a href=&#34;https://sh.rustup.rs&#34;&gt;&lt;code&gt;https://sh.rustup.rs&lt;/code&gt;&lt;/a&gt; &lt;code&gt;| sh&lt;/code&gt; on your terminal.&lt;/p&gt;
+&lt;p&gt;Verify the installation by opening the terminal and typing &lt;code&gt;rustc --version&lt;/code&gt;. This should show the version of Rust installed on your system.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rustc --version
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rustc 1.67.0 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;fc594f156 2023-01-24&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Note: Rust is supported on various platforms such as Windows, macOS, Linux, and BSD.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mime - A dummy Django, PyTorch project</title>
+      <link>https://mrdvince.github.io/posts/ckx8pdli806axz7s10sx5fy8c/</link>
+      <pubDate>Thu, 16 Dec 2021 13:12:24 +0100</pubDate>
+      <guid>https://mrdvince.github.io/posts/ckx8pdli806axz7s10sx5fy8c/</guid>
+      <description>&lt;h1 id=&#34;what-is-this&#34;&gt;What is this?&lt;/h1&gt;
+&lt;p&gt;This is me goofing around and trying to learn some Django the only way there is, (by attempting to build something and combining it with a bunch of other things I know or have come across).&lt;/p&gt;
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;This is a Django-based &amp;ldquo;web app&amp;rdquo; that uses a Densenet 121 model trained to classify 6 classes of objects.&lt;/p&gt;
+&lt;h2 id=&#34;the-classes&#34;&gt;The Classes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Potholes&lt;/li&gt;
+&lt;li&gt;Dumping&lt;/li&gt;
+&lt;li&gt;Accidents&lt;/li&gt;
+&lt;li&gt;Flooded&lt;/li&gt;
+&lt;li&gt;Bad drainage&lt;/li&gt;
+&lt;li&gt;Construction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;data&#34;&gt;Data&lt;/h1&gt;
+&lt;p&gt;The data was got from Duckduck go using jmd_imagecraper&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nebo - Build and Deploy(API as a Service)</title>
+      <link>https://mrdvince.github.io/posts/ckvmevbpz0mwg7ls1hbs99s69/</link>
+      <pubDate>Fri, 05 Nov 2021 13:12:24 +0100</pubDate>
+      <guid>https://mrdvince.github.io/posts/ckvmevbpz0mwg7ls1hbs99s69/</guid>
+      <description>&lt;h1 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h1&gt;
+&lt;p&gt;Agriculture is one of the major sources of income in 3rd world countries. In the age of AI, we have seen problems like self-driving take priority amongst other cool research, but I haven&amp;rsquo;t seen a good enough solution that helps the average farmer get better yields, understand what is the problem with their crop. I haven&amp;rsquo;t seen other start-ups utilize the power that deep learning can have and integrate the same in their products and help solve an even bigger, broader scope of problems a farmer and the whole agricultural ecosystem has.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
