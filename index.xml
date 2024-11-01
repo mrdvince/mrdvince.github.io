@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nomadin</title>
+    <link>mrdvince.me/</link>
+    <description>Recent content on Nomadin</description>
+    <image>
+      <title>Nomadin</title>
+      <url>mrdvince.me/</url>
+      <link>mrdvince.me/</link>
+    </image>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="mrdvince.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>mrdvince.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>mrdvince.me/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

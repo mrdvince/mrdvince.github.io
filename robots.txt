@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: mrdvince.me/sitemap.xml
